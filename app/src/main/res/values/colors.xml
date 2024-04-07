@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#f0f0f0</color>
+    <color name="black_3333">#222222</color>
+    <color name="black">#111111</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primaryColor">#8b5cf6</color>
+    <color name="grey">#3b4245</color>
+    <color name="blue">#8b5cf6</color>
+    <color name="placeholder">#5FA6A6A6</color>
+    <color name="primaryDarkColor">#b6b6b6</color>
+    <color name="secondaryColor">#ADFF2F</color> <!-- Warna cerah: GreenYellow -->
+    <color name="secondaryDarkColor">#111111</color>
+    <color name="secondaryTextColor">#eaeaea</color>
+</resources>
+
